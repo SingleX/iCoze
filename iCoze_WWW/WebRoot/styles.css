@@ -1,0 +1,106 @@
+@charset "utf-8";
+/* CSS Document For iCoze Register */
+
+* {
+    color: #333333;
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+	margin:0px;
+	padding:0px;
+	background:url(images/body.png) repeat-x;
+}
+
+.bg{
+	
+}
+
+.container{
+	background:url(images/left.png) no-repeat scroll left bottom transparent;
+    margin:0 auto;
+    position:relative;
+    width:956px;
+}
+
+.header{
+	height:94px;
+	background:url(images/logo.png) no-repeat left;
+}
+
+.content{
+}
+
+.left{
+	background: url(images/left.png) no-repeat scroll left top #F8FDFF;
+    float: left;
+    height: 580px;
+    padding-top: 30px;
+    width: 210px;
+}
+
+.left01{
+	background: url(images/left_2.png) no-repeat scroll left top transparent;
+    cursor: pointer;
+    display: block;
+    height: 72px;
+    margin-left: 2px;
+    padding: 10px 0 0 20px;
+    width: 168px;
+}
+.left02{
+	background: url(images/left_2.png) no-repeat scroll left top transparent;
+    cursor: pointer;
+    display: block;
+    height: 72px;
+    margin-left: 2px;
+    padding: 10px 0 0 20px;
+    width: 168px;
+}
+.left03{
+	background: url(images/left_2.png) no-repeat scroll left top transparent;
+    cursor: pointer;
+    display: block;
+    height: 72px;
+    margin-left: 2px;
+    padding: 10px 0 0 20px;
+    width: 168px;
+}
+
+
+.right{
+	background: url(images\right.png) no-repeat scroll right top #F8FDFF;
+    border-bottom: 1px solid #D6D9DB;
+    border-top: 1px solid #80ADD9;
+    float: left;
+    min-height: 530px;
+    padding-bottom: 80px;
+    width: 746px;
+}
+
+.right01{
+	margin:50px 10px 0 0;
+	height:200px;
+	width:150px;
+	float:left;
+}
+.item1{
+	float:left;
+	text-align:right;
+	height:44px;
+	width:150px;
+}
+.right02{
+	margin:50px 0 0 10px;
+	height:200px;
+	width:300px;
+	float:left;
+}
+.item2{
+	float:left;
+	text-align:left;
+	height:44px;
+	width:300px;
+}

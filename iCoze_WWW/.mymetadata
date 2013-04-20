@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="iCoze_WWW"
+  id="myeclipse.1358146303171"
+  context-root="/iCoze_WWW"
+  j2ee-spec="5.0"
+  archive="iCoze_WWW.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
